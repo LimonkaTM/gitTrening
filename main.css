@@ -1,4 +1,15 @@
-body {
+body, h1, h2, h3, h4, h5, h6, p, a{
 	margin: 0;
-	padding: 0;
+}
+
+.header	{
+	background: linear-gradient(0deg, rgba(202,171,255,1) 0%, rgba(107,107,255,1) 64%);
+}
+
+.fixed-block	{
+	margin: 0 200px 0 200px;
+}
+
+.main-block	{
+	padding: 40px;
 }
